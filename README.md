@@ -26,7 +26,7 @@ Answering a question. <br/><br/>
 
 
 
-Window icon made by Freepik from www.flaticon.com <br/><br/>
-Monster sprite made by Smashicons from www.flaticon.com <br/><br/>
+Window icon made by Freepik from www.flaticon.com\
+Monster sprite made by Smashicons from www.flaticon.com\
 Boss sprite made by Smashicons from www.flaticon.com
 
