@@ -21,7 +21,7 @@ notify the player whether the question was answered correctly or not.
 Navigating the character through the rooms of the dungeon.
 ![](./gifs/character-nav.gif)
 
-Answering a question. \n
+Answering a question. <br/><br/>
 ![](./gifs/answer-question.gif)
 
 
