@@ -18,7 +18,7 @@ In order to defeat the monster, the character must answer a question correctly. 
 notify the player whether the question was answered correctly or not. 
 
 ## Illustrations
-Navigating the character through the rooms of the dungeon.
+Navigating the character through the rooms of the dungeon. <br/><br/>
 ![](./gifs/character-nav.gif)
 
 Answering a question. <br/><br/>
