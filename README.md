@@ -6,6 +6,9 @@
 - Matthew Roberts (Robertsm8)
 - Stewart Towle (towles-osu)
 
+## Awards
+BeaverHacks Winter 2021 1st Place
+
 ## Technologies Used
 - Python 3.8
 - PyGame Module
